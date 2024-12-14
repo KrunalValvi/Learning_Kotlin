@@ -10,19 +10,29 @@ fun main(){
 //        println("negative number")
 //    }
 
-    print("Enter day Number: ")
-    val day = readLine()?: ""
 
-    when (day){
-        1.toString()-> println("Sunday")
-        2.toString()-> println("Monday")
-        3.toString()-> println("Tuesday")
-        4.toString()-> println("Wednesday")
-        5.toString()-> println("Thursday")
-        6.toString()-> println("Friday")
-        7.toString()-> println("Saturday")
-        else-> println("Invalid day")
+
+//    print("Enter day Number: ")
+//    val day = readLine()?: ""
+//
+//    when (day){
+//        1.toString()-> println("Sunday")
+//        2.toString()-> println("Monday")
+//        3.toString()-> println("Tuesday")
+//        4.toString()-> println("Wednesday")
+//        5.toString()-> println("Thursday")
+//        6.toString()-> println("Friday")
+//        7.toString()-> println("Saturday")
+//        else-> println("Invalid day")
+//    }
+
+
+
+    for (i in 1..5){
+        println("Value of i: $i")
     }
+
+
 
 }
 
