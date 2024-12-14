@@ -1,14 +1,28 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-fun main() {
-    val name = "Kotlin"
-    //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-    // to see how IntelliJ IDEA suggests fixing it.
-    println("Hello, " + name + "!")
+fun main(){
 
-    for (i in 1..5) {
-        //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-        // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        println("i = $i")
+//    print("Enter Number: ")
+//    val number = readLine()?: ""
+//
+//    if (number> 0.toString()){
+//        println("Positive number")
+//    }
+//    else{
+//        println("negative number")
+//    }
+
+    print("Enter day Number: ")
+    val day = readLine()?: ""
+
+    when (day){
+        1.toString()-> println("Sunday")
+        2.toString()-> println("Monday")
+        3.toString()-> println("Tuesday")
+        4.toString()-> println("Wednesday")
+        5.toString()-> println("Thursday")
+        6.toString()-> println("Friday")
+        7.toString()-> println("Saturday")
+        else-> println("Invalid day")
     }
+
 }
+
