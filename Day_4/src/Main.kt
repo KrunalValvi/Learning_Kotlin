@@ -10,7 +10,7 @@ class Person {
 
 fun main(){
 
-    var person = Person()
+    val person = Person()
 
     person.name = "Krunal"
     person.age = 19
