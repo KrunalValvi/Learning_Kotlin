@@ -35,7 +35,7 @@ fun main(){
 //        count--
 //    }
 
-    var number = -2
+    val number = -2
 
     if (number>0){
         println("Number is positive")
