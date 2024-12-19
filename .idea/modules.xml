@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Control Flow/Control Flow.iml" filepath="$PROJECT_DIR$/Control Flow/Control Flow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day_1/Day_1.iml" filepath="$PROJECT_DIR$/Day_1/Day_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day_2/Day_2.iml" filepath="$PROJECT_DIR$/Day_2/Day_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day_3/Day_3.iml" filepath="$PROJECT_DIR$/Day_3/Day_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day_4/Day_4.iml" filepath="$PROJECT_DIR$/Day_4/Day_4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Day_5/Day_5.iml" filepath="$PROJECT_DIR$/Day_5/Day_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Learning_Kotlin.iml" filepath="$PROJECT_DIR$/Learning_Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/Null Safety/Null Safety.iml" filepath="$PROJECT_DIR$/Null Safety/Null Safety.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Print Statment/Print Statment.iml" filepath="$PROJECT_DIR$/Print Statment/Print Statment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum/Sum.iml" filepath="$PROJECT_DIR$/Sum/Sum.iml" />
     </modules>
   </component>
 </project>
