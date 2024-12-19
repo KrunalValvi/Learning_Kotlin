@@ -14,7 +14,7 @@ fun main(){
 
 //    Nullable Type
 
-    var name: String? = null
+    val name: String? = null
     println(name)
 
 //    Safe Call: ?.
