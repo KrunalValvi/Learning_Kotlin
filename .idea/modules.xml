@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections and Lambdas/Collections and Lambdas.iml" filepath="$PROJECT_DIR$/Collections and Lambdas/Collections and Lambdas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Control Flow/Control Flow.iml" filepath="$PROJECT_DIR$/Control Flow/Control Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Learning_Kotlin.iml" filepath="$PROJECT_DIR$/Learning_Kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
