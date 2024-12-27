@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Collections and Lambdas/Collections and Lambdas.iml" filepath="$PROJECT_DIR$/Collections and Lambdas/Collections and Lambdas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Control Flow/Control Flow.iml" filepath="$PROJECT_DIR$/Control Flow/Control Flow.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Functions/Functions.iml" filepath="$PROJECT_DIR$/Functions/Functions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Class/Class.iml" filepath="$PROJECT_DIR$/Basic/Class/Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Collections and Lambdas/Collections and Lambdas.iml" filepath="$PROJECT_DIR$/Basic/Collections and Lambdas/Collections and Lambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Control Flow/Control Flow.iml" filepath="$PROJECT_DIR$/Basic/Control Flow/Control Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Functions/Functions.iml" filepath="$PROJECT_DIR$/Basic/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/Fundamentals.iml" filepath="$PROJECT_DIR$/Fundamentals/Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Basic/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Learning_Kotlin_Basic.iml" filepath="$PROJECT_DIR$/Learning_Kotlin_Basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Null Safety/Null Safety.iml" filepath="$PROJECT_DIR$/Null Safety/Null Safety.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Print Statment/Print Statment.iml" filepath="$PROJECT_DIR$/Print Statment/Print Statment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sum/Sum.iml" filepath="$PROJECT_DIR$/Sum/Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Loops/Loops.iml" filepath="$PROJECT_DIR$/Basic/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Null Safety/Null Safety.iml" filepath="$PROJECT_DIR$/Basic/Null Safety/Null Safety.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/OOP/OOP.iml" filepath="$PROJECT_DIR$/Basic/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Print Statment/Print Statment.iml" filepath="$PROJECT_DIR$/Basic/Print Statment/Print Statment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic/Sum/Sum.iml" filepath="$PROJECT_DIR$/Basic/Sum/Sum.iml" />
     </modules>
   </component>
 </project>
