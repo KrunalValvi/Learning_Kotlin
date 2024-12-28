@@ -16,6 +16,8 @@ This repository is organized into modules, each focusing on specific Kotlin conc
 - **OOP**: Object-oriented programming principles applied in Kotlin.
 - **Print Statement**: Basic usage of print statements for output in Kotlin.
 - **Sum**: Functions and methods to calculate the sum of numbers, demonstrating arithmetic operations.
+- **Smart Home Class Structure**: This module includes the design and implementation of a smart home system using Kotlin classes. It demonstrates how to model various smart home devices, their interactions, and the overall system architecture.
+
 
 ## Getting Started
 
